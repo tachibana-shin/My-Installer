@@ -1,0 +1,12 @@
+Package: git.shin.myinst
+Name: myinst
+Priority: standard
+Pre-Depends: firmware (>= 5.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Install IPAs from the command line
+Maintainer: Tachibana Shin(しん) <tachib.shin@gmail.com>
+Author: Tachibana Shin(しん) <tachib.shin@gmail.com>
+Section: Utilities
+Homepage: https://github.com/tachibana-shin/My-Installer
+Tag: role::enduser, purpose::console
